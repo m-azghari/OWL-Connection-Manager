@@ -117,7 +117,7 @@ The output will be located in the `dist/installers/` directory.
 
 ## 📄 License
 
-This project is licensed under the **Polyform Noncommercial License 1.0.0**.
+This project is licensed under the **GNU General Public License v3.0**.
 
 ---
 
